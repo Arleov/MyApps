@@ -1,0 +1,323 @@
+[
+  {
+    "id": "russia",
+    "items": [
+      {
+        "id": 1,
+        "name": "Москва",
+        "price": "100 000",
+        "image": "https://www.hdretail.ru/upload/iblock/8d0/8d01c02a7a68c45e7d021d9d44efab9f.jpg",
+        "description": "В Москве тысячи памятников истории и архитектуры, заслуживающих самого пристального внимания. Мы составили список наиболее интересных достопримечательностей столицы, знакомство с которыми позволит Вам узнать и полюбить этот прекрасный город.",
+        "stars": 4.5,
+        "options": [
+       
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Москва",
+        "price": "80 000",
+        "image": "",
+        "description": "В Москве тысячи памятников истории и архитектуры, заслуживающих самого пристального внимания. Мы составили список наиболее интересных достопримечательностей столицы, знакомство с которыми позволит Вам узнать и полюбить этот прекрасный город.",
+        "stars": 4.9,
+        "options": []
+       
+      },
+      {
+        "id": 3,
+        "name": "Москва",
+        "price": "20 000",
+        "image": "https://im8.bloha.ru/2021/12/IMG_5766-853x640.jpg?x10609",
+        "description": "В Москве тысячи памятников истории и архитектуры, заслуживающих самого пристального внимания. Мы составили список наиболее интересных достопримечательностей столицы, знакомство с которыми позволит Вам узнать и полюбить этот прекрасный город.",
+        "stars": 4.7,
+        "options": [
+  
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Москва",
+        "price": "80 000",
+        "image": "https://jaamstore.ir/wp-content/uploads/2021/06/xiaomi-poco-x3-nfc-front-view-blue-color-1-e1624268215658.jpg",
+        "description": "В Москве тысячи памятников истории и архитектуры, заслуживающих самого пристального внимания. Мы составили список наиболее интересных достопримечательностей столицы, знакомство с которыми позволит Вам узнать и полюбить этот прекрасный город.",
+        "stars": 4.3,
+        "options": [
+ 
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Москва",
+        "price": "60 000",
+        "image": "https://svetofor.info/images/detailed/301/smartfon-samsung-galaktika-a53-256-gb-ram-8-gb-dual-sim-blue-5.jpg",
+        "description": "В Москве тысячи памятников истории и архитектуры, заслуживающих самого пристального внимания. Мы составили список наиболее интересных достопримечательностей столицы, знакомство с которыми позволит Вам узнать и полюбить этот прекрасный город.",
+        "stars": 4.8,
+        "options": []
+     
+      },
+      {
+        "id": 6,
+        "name": "Москва",
+        "price": "180 000",
+        "image": "",
+        "description": "samsung galaxy a32 Насладитесь детальным изображением на Super AMOLED 6,4'' Infinity-U экране с разрешением FHD+ и яркостью до 800 нит1, которое отлично видно даже при ярком дневном свете. Функция защиты глаз 'Eye Comfort Shield' 2 снижает уровень синего свечения, а сверх плавная прокрутка обеспечивает комфортный просмотр во время игрового сеанса или скроллинга изображения на экране.",
+        "stars": 4.5,
+        "options": []
+     
+      },
+      {
+        "id": 7,
+        "name": "Москва",
+        "price": "100 000",
+        "image": "https://www.hdretail.ru/upload/iblock/8d0/8d01c02a7a68c45e7d021d9d44efab9f.jpg",
+        "description": "В Москве тысячи памятников истории и архитектуры, заслуживающих самого пристального внимания. Мы составили список наиболее интересных достопримечательностей столицы, знакомство с которыми позволит Вам узнать и полюбить этот прекрасный город.",
+        "stars": 4.5,
+        "options": [
+      
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Москва",
+        "price": "80 000",
+        "image": "https://iphoriya.ru/wp-content/uploads/iphone-11-green.jpg",
+        "description": "В Москве тысячи памятников истории и архитектуры, заслуживающих самого пристального внимания. Мы составили список наиболее интересных достопримечательностей столицы, знакомство с которыми позволит Вам узнать и полюбить этот прекрасный город.",
+        "stars": 4.9,
+        "options": [
+
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Москва",
+        "price": "20 000",
+        "image": "https://im8.bloha.ru/2021/12/IMG_5766-853x640.jpg?x10609",
+        "description": "В Москве тысячи памятников истории и архитектуры, заслуживающих самого пристального внимания. Мы составили список наиболее интересных достопримечательностей столицы, знакомство с которыми позволит Вам узнать и полюбить этот прекрасный город.",
+        "stars": 4.7,
+        "options": [
+          ""
+          
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Москва",
+        "price": "80 000",
+        "image": "https://jaamstore.ir/wp-content/uploads/2021/06/xiaomi-poco-x3-nfc-front-view-blue-color-1-e1624268215658.jpg",
+        "description": "В Москве тысячи памятников истории и архитектуры, заслуживающих самого пристального внимания. Мы составили список наиболее интересных достопримечательностей столицы, знакомство с которыми позволит Вам узнать и полюбить этот прекрасный город.",
+        "stars": 4.3,
+        "options": [
+          "a"
+         
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Samsung galaxy A53",
+        "price": "60 000",
+        "image": "https://svetofor.info/images/detailed/301/smartfon-samsung-galaktika-a53-256-gb-ram-8-gb-dual-sim-blue-5.jpg",
+        "description": "В Москве тысячи памятников истории и архитектуры, заслуживающих самого пристального внимания. Мы составили список наиболее интересных достопримечательностей столицы, знакомство с которыми позволит Вам узнать и полюбить этот прекрасный город.",
+        "stars": 4.8,
+        "options": [
+          "a"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "samsung galaxy a32",
+        "price": "65 000",
+        "image": "",
+        "description": "В Москве тысячи памятников истории и архитектуры, заслуживающих самого пристального внимания. Мы составили список наиболее интересных достопримечательностей столицы, знакомство с которыми позволит Вам узнать и полюбить этот прекрасный город.",
+        "stars": 4.5,
+        "options": [
+          "a"
+        
+        ]
+      }
+    ]
+  },
+  {
+    "id": "japan",
+    "items": [
+      {
+        "id": 1,
+        "name": "Токио",
+        "price": "170 000",
+        "image": "http://bytorg.ru/upload/resizer2/18/8c2/8c27d0d8a0e4b72c3cc0e338d02f4576.jpg",
+        "description": "",
+        "stars": 4.1,
+        "options": [
+          "Невероятное путешествие в столицу Японии"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "",
+        "price": "48 000",
+        "image": "",
+        "description": " ",
+        "stars": 4.3,
+        "options": [
+          ""
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Bosch KGV36XW21R",
+        "price": "50 000",
+        "image": "https://static.onlinetrade.ru/img/users_images/275173/b/kholodilnik_bosch_kgv36xw21r_1576231285_1.jpg",
+        "description": "",
+        "stars": 4.4,
+        "options": [
+         
+        ]
+      },
+      {
+        "id": 4,
+        "name": "",
+        "price": "78 000",
+        "image": "https://static.onlinetrade.ru/img/items/b/maunfeld_mff177nfsb_1358830_6.jpg",
+        "description": ".",
+        "stars": 4,
+        "options": [
+          ]
+      },
+      {
+        "id": 5,
+        "name": "",
+        "price": "40 000",
+        "image": "http://bytorg.ru/upload/resizer2/18/8c2/8c27d0d8a0e4b72c3cc0e338d02f4576.jpg",
+        "description": "",
+        "stars": 4.1,
+        "options": [
+         
+        ]
+      },
+      {
+        "id": 6,
+        "name": "",
+        "price": "48 000",
+        "image": "https://static.onlinetrade.ru/img/items/b/kholodilnik_haier_cef535agg_2175699_1.jpg",
+        "description": " ",
+        "stars": 4.3,
+        "options": [
+          
+        ]
+      },
+      {
+        "id": 7,
+        "name": "",
+        "price": "50 000",
+        "image": "https://static.onlinetrade.ru/img/users_images/275173/b/kholodilnik_bosch_kgv36xw21r_1576231285_1.jpg",
+        "description": "",
+        "stars": 4.4,
+        "options": [
+      ""
+        ]
+      },
+      {
+        "id": 8,
+        "name": "",
+        "price": "78 000",
+        "image": "",
+        "description": ".",
+        "stars": 4,
+        "options": [
+        ]
+      },
+      {
+        "id": 9,
+        "name": "ATLANT ХМ 4423-060 N",
+        "price": "40 000",
+        "image": "http://bytorg.ru/upload/resizer2/18/8c2/8c27d0d8a0e4b72c3cc0e338d02f4576.jpg",
+        "description": "",
+        "stars": 4.1,
+        "options": 
+          "Э"
+      },
+      {
+        "id": 10,
+        "name": "",
+        "price": "48 000",
+        "image": "",
+        "description": "",
+        "stars": 4.3,
+        "options": [
+          ""
+         
+        ]
+      },
+      {
+        "id": 11,
+        "name": "",
+        "price": "50 000",
+        "image": "https://static.onlinetrade.ru/img/users_images/275173/b/kholodilnik_bosch_kgv36xw21r_1576231285_1.jpg",
+        "description": ".",
+        "stars": 4.4,
+        "options": [
+         ""
+        ]
+      },
+      {
+        "id": 12,
+        "name": "M",
+        "price": "78 000",
+        "image": "https://static.onlinetrade.ru/img/items/b/maunfeld_mff177nfsb_1358830_6.jpg",
+        "description": "",
+        "stars": 4,
+        "options": [
+        
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spain",
+    "items": [
+      {
+        "id": 1,
+        "name": "билет в дворец",
+        "price": "32 000",
+        "image": "",
+        "description": "билет в дворец.",
+        "stars": 4.1,
+        "options": [
+          "2 билета на посещение дворца"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "",
+        "price": "32 000",
+        "image": "",
+        "description": "личныый гид.",
+        "stars": 4.7,
+        "options": [
+        "договор составляется на неделю"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "",
+        "price": "72 000",
+        "image": "https://www.cmp24.ru/images/prodacts/sourse/95407/95407235_sistemnyiy-blok-epix-hero-a10.jpg",
+        "description": "",
+        "stars": 4.2,
+        "options": [
+        
+        ]
+      },
+      {
+        "id": 4,
+        "name": "",
+        "price": "49 000",
+        "image": "",
+        "description": "",
+        "stars": 5.0,
+        "options": [
+      
+        ]
+      }
+    ]
+  }
+]
